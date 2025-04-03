@@ -31,6 +31,8 @@ Our research aims to develop a bioinformatic pipeline that informs on BCG treatm
 * hg38 reference genome
 * tumour-immune deconvolution: [MethAtlas](https://github.com/nloyfer/meth_atlas)
   * Moss, J.; Magenheim, J.; Neiman, D.; Zemmour, H.; Loyfer, N.; Korach, A.; Samet, Y.; Maoz, M.; Druid, H.; Arner, P.; et al. Comprehensive human cell-type methylation atlas reveals origins of circulating cell-free DNA in health and disease. Nat. Commun. 2018, 9, 5068.
+* tumour-immune deconvolution: [MethylCIBERSORT](https://github.com/WonyoungCho/MethylCIBERSORT)
+  * Chakravarthy, A. et al. Pan-cancer deconvolution of tumour composition using DNA methylation. Nat Commun 9, 3220 (2018).
 
 ## External Links
 
